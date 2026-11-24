@@ -1,6 +1,6 @@
 # 👋 Hi, I'M MUHAMMAD IRFAN!
 
-🤖 Aspiring Data Analyst | 📊 Data Analytics | 🐍 Python Developer | 💻 Machine Learning
+ 🐍 Python Developer | 📊 Data Analytics| 📊 Data Science | 💻 Machine Learning|🤖 Artificial Intelligence|
 
 💡 Turning raw data into meaningful insights and transforming ideas into smart solutions.
 
@@ -27,11 +27,11 @@
 
 ## 🤝 Let's Connect!
 
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
-- 🐙 GitHub: [Visit my GitHub](YOUR_GITHUB_URL)
+- 💼 LinkedIn: [www.linkedin.com/in/muhammad-irfan-052249333]
+- 🐙 GitHub: [https://github.com/muhammad-irfan95]
 
 ## 📧 Contact Me
 
-- Email: YOUR_EMAIL
+- Email: m.irfan0786111@gmail.com
 
 ✨ Learning Today. Building Tomorrow. 🚀
